@@ -1,0 +1,25 @@
+.titulo{
+	color:white; 
+	height: 20%;
+	width: 100%;
+	background: #008066;
+	font-size: 30px;
+	text-align: center;
+}
+.palabra{
+	color: white 
+	!important;
+	
+}
+.izquierda{
+	padding-left:20px;
+	float: left;
+	width: 50%;
+	text-align: justify;
+}
+.derecha{
+	padding-left:20px;
+	float: right;
+	width: 50%;
+	text-align: justify;
+}
